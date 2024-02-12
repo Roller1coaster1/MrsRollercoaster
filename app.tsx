@@ -1,2 +1,2 @@
-const myName = 'AArti';
+const myName = 'Aarti';
 const job = 'Being smart'
